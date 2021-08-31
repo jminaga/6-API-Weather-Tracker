@@ -1,0 +1,29 @@
+/* Page Banner */
+.dashBoard{
+    background-color:rgb(0, 0, 255);
+    text-align:center;
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+/* Search Section */
+.searchBox{
+    text-align:center;
+    border-style: solid;
+    padding-bottom: 20px;
+    
+}
+
+/* Current Weather */
+#todayBox{
+    text-align:center;
+}
+
+/* Five Day Forecast */
+#forecastBox{
+    text-align:center;
+    border-style: solid;
+    background-color: blue;
+    color:white;
+}
