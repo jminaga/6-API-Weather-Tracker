@@ -6,5 +6,5 @@ This homework was to create a weather application using the One Weather server-s
 <br> The % humidity is displayed /br>
 <br> The sky description is displayed</br>
 <br> An icon representing the sky description is displayed</br>
-<br> A link the website https://jminaga.github.io/4_homework_quiz/index.html</br>
-![](readme_img/screenshot.png)
+<br> A link the website https://jminaga.github.io/6-API-Weather-Tracker/index.html</br>
+![](img/readme.png)
