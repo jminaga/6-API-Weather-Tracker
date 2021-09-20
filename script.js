@@ -28,6 +28,7 @@ function getCurrent() {
 
 //Display current temperature
 function renderCurrent(weather){
+    
     console.log(weather)
     let wind = weather.wind.speed
     let temp = weather.main.temp
@@ -55,7 +56,7 @@ function renderCurrent(weather){
 }
 
 function renderForecast(forecast){
-
+forecastBox.innerHTML = '';
    
 let fiveDayForecast = [];
     
