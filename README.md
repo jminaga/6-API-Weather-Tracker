@@ -7,4 +7,7 @@ This homework was to create a weather application using the One Weather server-s
 <br> The sky description is displayed</br>
 <br> An icon representing the sky description is displayed</br>
 <br> A link the website https://jminaga.github.io/6-API-Weather-Tracker/index.html</br>
-![](img/readme.png)
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+![](img/4.png)
